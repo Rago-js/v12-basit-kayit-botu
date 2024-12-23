@@ -1,0 +1,47 @@
+{
+  "//1": "OgünSert",
+  "//2": "Kobs",
+  "//3": "updating this file will download and update your packages",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "KOBS CODE",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "moment": "^2.27.0",
+    "chalk": "^4.1.0",
+    "quick.db": "^7.1.1",
+    "jimp": "^0.13.0",
+    "os": "^0.1.1",
+    "moment-duration-format": "^2.2.2",
+    "simple-youtube-api": "^5.2.1",
+    "discord-bots-api": "^0.0.2",
+    "instagram-user": "^2.0.1",
+    "passport": "^0.4.1",
+    "ytdl-core": "^3.1.1",
+    "weather-js": "^2.0.0",
+    "google": "^2.1.0",
+    "passport-oauth2": "^1.5.0",
+    "level-session-store": "^2.2.0",
+    "db": "^2.0.0",
+    "can": "^6.4.0",
+    "bad-words": "^3.0.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
